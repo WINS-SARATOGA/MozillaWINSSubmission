@@ -1,5 +1,7 @@
-# submission
+# Submission Materials
 Round 1 Submission Materials (question answers, documents, etc.)
+
+---
 
 Application Guide: https://assets.mofoprod.net/nsf/NSFWINSapplicationguide.pdf
 
